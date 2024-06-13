@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Soy estudiante de la tecnicatura en programacion en <br>la universidad tecnologica nacional (UTN) de San Rafael.<br><br>Estoy aprendiendo todo tipo de lenguajes de programacion<br>como python, java, html entre otros, como tambien otras <br>herramientas como gitbush, github, y tambien cantidad de<br>inteligencias artificial que me resultan muy utiles a la hora de<br>programar y seguir aprendiendo.<br><br>
+Soy estudiante de la tecnicatura en programacion en <br>la universidad tecnologica nacional (UTN) de San Rafael.<br><br>Estoy aprendiendo todo tipo de lenguajes de programacion<br>como python, java, html entre otros, como tambien otras <br>herramientas como gitbush, github, y tambien cantidad de<br>inteligencias artificiales que me resultan muy utiles a la hora de<br>programar y seguir aprendiendo.<br><br>
 
 
 ## 🌐 Socials:
